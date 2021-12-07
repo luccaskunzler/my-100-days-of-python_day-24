@@ -14,8 +14,6 @@ from food import Food
 from write import Write
 
 # creates screen object and sets its title
-
-
 screen = Screen()
 screen.setup(width=600, height=600)
 # screen is set to black
